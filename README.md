@@ -17,20 +17,6 @@ Proyecto desarrollado para practicar pruebas unitarias y aplicar buenas práctic
 * Maven
 * Git & GitHub
 
-## 📸 Capturas
-
-### Ejecución de Tests
-
-![Tests](<img width="1091" height="404" alt="image" src="https://github.com/user-attachments/assets/96920b07-fbd8-4f0f-8db6-f2c9960ccf64" />)
-
-### Estructura del Proyecto
-
-![Structure](screenshots/structure.png)
-
-### Ejemplo de Test
-
-![Code](<img width="473" height="498" alt="image" src="https://github.com/user-attachments/assets/25cca267-9759-497c-9865-472d00fee4d2" />)
-
 ---
 
 ##  Estructura
